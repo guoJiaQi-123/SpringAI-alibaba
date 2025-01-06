@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: chatmodel-example
+  ai:
+    dashscope:
+      api-key: sk-2013c20522404d77ad7492cf3a48c5b1
